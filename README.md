@@ -74,8 +74,8 @@ We have **improved** the original paper's accuracy from **87.5%** to **92.00%** 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/heart-disease-prediction.git
-cd heart-disease-prediction
+git clone https://github.com/twahanur/Heart-Disease-prediction-improve-IOP-paper-2021.git
+cd Heart-Disease-prediction-improve-IOP-paper-2021
 ```
 
 ### 2. Install Requirements
